@@ -1,5 +1,8 @@
 # AutomationFramework
 This is java+selenium project
+
+ScreenRecording: https://github.com/MSD-12/AutomationFramework/blob/3943c7cb0a358d4bf7c69121fe0606beb6792abe/outputFile/Screencast%20from%202024-02-19%2021-17-32.webm
+
 Data verification output file: https://github.com/MSD-12/AutomationFramework/blob/86dba4d65907a81b5fa0097d9176603d30085a69/outputFile/part1/1708357673445DataVerification.txt
 
 Logs: 
