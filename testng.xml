@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+    <listeners>
+        <listener class-name="org.testng.reporters.TestHTMLReporter"/>
+        <listener class-name="org.testng.reporters.JUnitXMLReporter"/>
+    </listeners>
+    <test name="TestCases">
+        <classes>
+            <class name="DataVerificationTest"/>
+            <class name="DataExtractionAndValidationTest"/>
+        </classes>
+    </test>
+</suite>
